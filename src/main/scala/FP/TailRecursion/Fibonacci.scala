@@ -1,6 +1,6 @@
 package FP.TailRecursion
 
-object fibonancial {
+object Fibonacci {
 
   def fib(n: Int): Int = {
     @annotation.tailrec
