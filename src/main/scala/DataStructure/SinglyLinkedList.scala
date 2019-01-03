@@ -1,0 +1,5 @@
+package DataStructure
+
+class SinglyLinkedList {
+
+}
