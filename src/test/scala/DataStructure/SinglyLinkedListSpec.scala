@@ -2,7 +2,7 @@ package DataStructure
 
 import org.scalatest.{FunSuite, Matchers}
 
-class SinglyLinkedList extends FunSuite with Matchers {
+class SinglyLinkedListSpec extends FunSuite with Matchers {
 
   // sum()
   test("List(2,3) when use sum() should be 5"){
