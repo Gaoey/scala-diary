@@ -1,6 +1,6 @@
 SCALA DIARY
 
-see Wiki to learning more
-You can see the code and some example in this repository
+see Wiki to learning more, 
+almost thing I summary from Functional Programming in Scala Book
 
 @GaoEy 2019
